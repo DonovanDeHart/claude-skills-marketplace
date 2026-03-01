@@ -1,0 +1,6 @@
+{
+  "name": "powershell",
+  "description": "Controlled PowerShell execution skill",
+  "version": "1.0.0",
+  "entry": "index.js"
+}

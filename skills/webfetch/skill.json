@@ -1,0 +1,6 @@
+{
+  "name": "webfetch",
+  "description": "HTTP fetch utility skill",
+  "version": "1.0.0",
+  "entry": "index.js"
+}

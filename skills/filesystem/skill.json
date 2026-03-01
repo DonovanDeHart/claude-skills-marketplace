@@ -1,0 +1,6 @@
+{
+  "name": "filesystem",
+  "description": "Local filesystem interaction skill",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
