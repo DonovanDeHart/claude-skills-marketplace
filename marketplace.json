@@ -1,0 +1,22 @@
+{
+  "name": "Curated Claude Skills Marketplace",
+  "description": "Controlled and versioned Claude skill registry.",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "filesystem",
+      "path": "./skills/filesystem",
+      "description": "Local file read/write utilities"
+    },
+    {
+      "name": "powershell",
+      "path": "./skills/powershell",
+      "description": "Controlled PowerShell execution wrapper"
+    },
+    {
+      "name": "webfetch",
+      "path": "./skills/webfetch",
+      "description": "HTTP request and data retrieval utility"
+    }
+  ]
+}
